@@ -1,6 +1,6 @@
 {
   "name": "devtools-debugger-mcp",
-  "version": "1.0.0",
+  "version": "0.0.1",
   "description": "MCP server exposing full Chrome DevTools Protocol debugging: breakpoints, stepping, call stacks, eval, and source maps. Also supports tab control, JS execution, screenshots, and network monitoring.",
   "main": "dist/index.js",
   "type": "module",
