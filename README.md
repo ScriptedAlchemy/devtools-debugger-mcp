@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/scriptedalchemy-devtools-debugger-mcp-badge.png)](https://mseep.ai/app/scriptedalchemy-devtools-debugger-mcp)
+
 # Node.js Debugger MCP
 
 An MCP server that provides comprehensive Node.js debugging capabilities using the Chrome DevTools Protocol. This server enables AI assistants to debug Node.js applications with full access to breakpoints, stepping, variable inspection, call stacks, expression evaluation, and source maps.
